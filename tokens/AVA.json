@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Defrost Finance Token",
+    "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+    "symbol": "MELT",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://snowtrace.io/token/images/defrostfinance_32.png"
+  },
+  {
+    "name": "Platypus",
+    "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+    "symbol": "PTP",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://snowtrace.io/token/images/platypusfinance_32.png"
+  },
+  {
+    "name": "Cougar Token",
+    "address": "0x727C43b707C6Fe3ACD92f17EFAC8e05476DFa81c",
+    "symbol": "CGS",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://assets.coingecko.com/coins/images/19402/small/logo.png?1644812043"
+  },
+  {
+    "name": "GMX",
+    "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+    "symbol": "GMX",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x62edc0692bd897d2295872a9ffcac5425011c661/b4e362278f64a738b878e5393fa29837.png"
+  },
+  {
+    "name": "AllianceBlock Nexera",
+    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+    "symbol": "NXRA",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://i.imgur.com/voD8CiS.png"
+  },
+  {
+    "name": "Own a fraction",
+    "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://fraction.fyi/static/FRACTION-TokenIcon-LIFI-256x256.png"
+  },
+  {
+    "name": "Relay Token",
+    "address": "0x78c42324016cd91D1827924711563fb66E33A83A",
+    "symbol": "RELAY",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png?1629339288"
+  },
+  {
+    "name": "Brazilian Digital",
+    "address": "0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f",
+    "symbol": "BRZ",
+    "decimals": 4,
+    "chainId": 43114,
+    "logoURI": "https://assets.coingecko.com/coins/images/8472/small/MicrosoftTeams-image_%286%29.png?1674480131"
+  }
+]

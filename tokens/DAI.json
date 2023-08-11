@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
+  },
+  {
+    "name": "Own a fraction",
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://fraction.fyi/static/FRACTION-TokenIcon-LIFI-256x256.png"
+  },
+  {
+    "name": "Monerium EUR emoney",
+    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+    "symbol": "EURe",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/23354/small/eur.png?1643926562"
+  },
+  {
+    "name": "Swarm BZZ",
+    "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+    "symbol": "BZZ",
+    "decimals": 16,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/16509/small/Circle_Orange_onWhite.png?1675184920"
+  }
+]
