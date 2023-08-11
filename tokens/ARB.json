@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Layer2DAO",
+    "address": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+    "symbol": "L2DAO",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/23699/large/Khp7Y4Sn.png?1645081048"
+  },
+  {
+    "name": "MAGIC",
+    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
+  },
+  {
+    "name": "Gains Network",
+    "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+    "symbol": "GNS",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x18c11fd286c5ec11c3b683caa813b77f5163a122/35fda8612eb2354b2436925648e7a87e.png"
+  },
+  {
+    "name": "GMX",
+    "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "symbol": "GMX",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a/b4e362278f64a738b878e5393fa29837.png"
+  },
+  {
+    "name": "Own a fraction",
+    "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
+    "symbol": "FRACTION",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://fraction.fyi/static/FRACTION-TokenIcon-LIFI-256x256.png"
+  },
+  {
+    "name": "Relay Token",
+    "address": "0x1426CF37CAA89628C4DA2864e40cF75E6d66Ac6b",
+    "symbol": "RELAY",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png?1629339288"
+  },
+  {
+    "name": "BOB Token",
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "symbol": "BOB",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://arbiscan.io/token/images/bobtoken_32.png"
+  },
+  {
+    "name": "Sperax",
+    "address": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+    "symbol": "SPA",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://arbiscan.io/token/images/speraxtoken_32.png"
+  },
+  {
+    "name": "Wombat Token",
+    "address": "0x7B5EB3940021Ec0e8e463D5dBB4B7B09a89DDF96",
+    "symbol": "WOM",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://bscscan.com/token/images/wombatex_32.png"
+  },
+  {
+    "name": "Stably USD",
+    "address": "0x097BF766E427F5CcD306F21Ba05632e0Be849B0E",
+    "symbol": "USDS",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "https://arbiscan.io/token/images/stably_32.png"
+  },
+  {
+    "name": "Mumu The Bull",
+    "address": "0x27e2209f4CeAebed97899eA2d8302Dee690d3820",
+    "symbol": "MUMU",
+    "decimals": 9,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/30185/small/mumu_200x200.png?1683600598"
+  },
+  {
+    "name": "Chronos",
+    "address": "0x15b2fb8f08E4Ac1Ce019EADAe02eE92AeDF06851",
+    "symbol": "CHR",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://arbiscan.io/token/images/chronos_32.png"
+  },
+  {
+    "name": "MUMMY",
+    "address": "0xA6D7D0e650aa40FFa42d845A354c12c2bc0aB15f",
+    "symbol": "MMY",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/28547/small/Logo_MMY.png?1671599329"
+  }
+]

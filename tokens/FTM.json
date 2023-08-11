@@ -1,0 +1,42 @@
+[
+  {
+    "name": "0xDAO",
+    "address": "0xc165d941481e68696f43ee6e99bfb2b23e0e3114",
+    "symbol": "OXD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://assets.coingecko.com/coins/images/22888/small/rjks-OoT_400x400.jpg?1642827011"
+  },
+  {
+    "name": "TOMB",
+    "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/tomb_32.png"
+  },
+  {
+    "name": "SpiritSwap Token",
+    "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+    "symbol": "SPIRIT",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://github.com/Layer3Org/spiritswap-tokens-list-icon/blob/master/token-list/images/0x5cc61a78f164885776aa610fb0fe1257df78e59b.png?raw=true"
+  },
+  {
+    "name": "Cougar Token",
+    "address": "0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C",
+    "symbol": "CGS",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://assets.coingecko.com/coins/images/19402/small/logo.png?1644812043"
+  },
+  {
+    "name": "MUMMY",
+    "address": "0x01e77288b38b416F972428d562454fb329350bAc",
+    "symbol": "MMY",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/mummyfinance_32.png"
+  }
+]
