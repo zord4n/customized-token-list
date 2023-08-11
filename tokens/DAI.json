@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/23354/small/eur.png?1643926562"
+  },
+  {
+    "name": "Swarm BZZ",
+    "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
+    "symbol": "BZZ",
+    "decimals": 16,
+    "chainId": 100,
+    "logoURI": "https://assets.coingecko.com/coins/images/16509/small/Circle_Orange_onWhite.png?1675184920"
   }
 ]
